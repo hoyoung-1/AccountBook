@@ -8,4 +8,5 @@
 Frame은 총 LoginFrame,SignUpFrame,AccountFrame 3가지가 있습니다.
 
 loginFrmae에서 signUp 버튼을 통해 SignUpFrame에서 사용자를 등록하고
+
 등록된 사용자로 로그인시 AccountFrame에서 목록과 입력을 할 수 있습니다.
