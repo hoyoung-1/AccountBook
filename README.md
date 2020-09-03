@@ -16,6 +16,8 @@ DAO 부분에서 Driver와 user,password를 자신의 DB에 맞게 변경해야�
 
 
 ### 사용법
+Account.sql을 다운받아서 DB에 적용.
+
 Frame은 총 LoginFrame,SignUpFrame,AccountFrame 3가지가 있습니다.
 
 loginFrmae에서 signUp 버튼을 통해 SignUpFrame에서 사용자를 등록하고
